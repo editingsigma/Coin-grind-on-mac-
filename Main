@@ -1,12 +1,12 @@
-// --- Place 2 soldiers ---
+
 place(-11.95, 2.00, -0.86, "Solder", 400)
 place(-12.09, 2.00, 1.01, "Solder", 400)
 
-// --- Upgrade both to lvl 1 ---
+
 upgrade(-11.95, 2.05, -0.86, 100)
 upgrade(-12.09, 2.05, 1.01, 100)
 
-// --- Place 4 more, upgrade each to lvl 1 ---
+
 place(-12.12, 2.00, 2.54, "Solder", 400)
 upgrade(-12.12, 2.05, 2.54, 100)
 
@@ -19,7 +19,6 @@ upgrade(11.86, 2.05, -2.84, 100)
 place(12.05, 2.00, -0.03, "Solder", 400)
 upgrade(12.05, 2.05, -0.03, 100)
 
-// --- Upgrade all 6 to lvl 2 ---
 upgrade(-11.95, 2.05, -0.86, 700)
 upgrade(-12.09, 2.05, 1.01, 700)
 upgrade(-12.12, 2.05, 2.54, 700)
@@ -27,7 +26,6 @@ upgrade(-12.44, 2.05, 5.72, 700)
 upgrade(11.86, 2.05, -2.84, 700)
 upgrade(12.05, 2.05, -0.03, 700)
 
-// --- Place 4 more, bring each straight to lvl 2 ---
 place(12.13, 2.00, 3.54, "Solder", 400)
 upgrade(12.13, 2.05, 3.54, 100)
 upgrade(12.13, 2.05, 3.54, 700)
@@ -44,7 +42,6 @@ place(6.03, 2.00, 5.12, "Solder", 400)
 upgrade(6.03, 2.05, 5.12, 100)
 upgrade(6.03, 2.05, 5.12, 700)
 
-// --- Upgrade all 10 to lvl 3 ---
 upgrade(-11.95, 2.05, -0.86, 1850)
 upgrade(-12.09, 2.05, 1.01, 1850)
 upgrade(-12.12, 2.05, 2.54, 1850)
@@ -56,7 +53,6 @@ upgrade(-5.77, 2.05, 8.17, 1850)
 upgrade(-5.70, 2.05, 4.31, 1850)
 upgrade(6.03, 2.05, 5.12, 1850)
 
-// --- Upgrade 6 to lvl 4 ---
 upgrade(-11.95, 2.05, -0.86, 6000)
 upgrade(-12.09, 2.05, 1.01, 6000)
 upgrade(-12.12, 2.05, 2.54, 6000)
